@@ -1,0 +1,8 @@
+{
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/rita/2.4.501/rita.js"
+  ],
+  "styles": [],
+  "showConsole": true
+}
